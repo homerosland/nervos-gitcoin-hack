@@ -4,20 +4,21 @@
 
 ### 🍕 Screenshots and video
 
-<a href="https://youtu.be/SaRoeZu7Xwc" target="_blank">PROJECT VIDEO LINK<a/>
+
+- <a href="https://youtu.be/SaRoeZu7Xwc" target="_blank">PROJECT VIDEO LINK<a/>
   
-<img src=""/>
+<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task7/nervos%20pizza.png"/>
 
   
-### 🍕 🍕 Link to the GitHub repository
-  
-<a target="_blank" href="https://github.com/homerosland/nervos-task7"> NERVOS/SATOHI PIZZA STORE CODES<a/>
+### 🍕 Link to the GitHub repository
 
-### 🍕 🍕 🍕 Transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract
   
-  Transaction hash: <strong> 0x3d2a9dd18f3e36fad856a5e98575472796841fbaa3f98c8646f9509c2c1fdce9 <strong/>
-  
-  Deployed contract address: <strong>0xE0dC75b6bef9EC62F81BE5C21C9DD35402C7a113<strong/>
+- <a target="_blank" href="https://github.com/homerosland/nervos-task7"> NERVOS/SATOHI PIZZA STORE CODES<a/>
+
+### 🍕 Transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract
+
+- Transaction hash: ```0x3d2a9dd18f3e36fad856a5e98575472796841fbaa3f98c8646f9509c2c1fdce9 ```
+- Deployed contract address: ```0xE0dC75b6bef9EC62F81BE5C21C9DD35402C7a113```
   
   ABI:
   

@@ -6,7 +6,7 @@
 
 <a href="https://youtu.be/SaRoeZu7Xwc" target="_blank">PROJECT VIDEO LINK<a/>
   
-<img src=""/>
+<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task7/nervos%20pizza.png"/>
 
   
 ### 🍕 🍕 Link to the GitHub repository

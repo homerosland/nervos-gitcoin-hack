@@ -10,11 +10,11 @@ https://explorer.nervos.org/aggron/address/ckt1qyqy3lcy5v8zw6qgnph7ve0f98dmzcyw2
 
 ### Screenshot, CKByte deposit to your Tron account on Layer 2
 
-<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task11/img2.jpg">
+<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task11/img2.png">
 
 ### Screenshot, smart contract calls on Layer 2
 
-<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task11/img3.jpg">
+<img src="https://github.com/homerosland/nervos-gitcoin-hack/blob/master/task11/img3.png">
 
 ### The transaction hash from the console output 
 
